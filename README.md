@@ -1,6 +1,7 @@
 # date_time
 
 A new Flutter project.
+this projet show current time 
 
 ## Getting Started
 
